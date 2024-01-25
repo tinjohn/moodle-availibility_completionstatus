@@ -1,0 +1,10 @@
+{
+  "name": "moodle-availability_completionstatus-form",
+  "builds": {
+    "moodle-availability_completionstatus-form": {
+      "jsfiles": [
+        "form.js"
+      ]
+    }
+  }
+}
