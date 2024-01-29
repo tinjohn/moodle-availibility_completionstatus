@@ -1,4 +1,4 @@
-# moodle-availibility_completionstatus
+# moodle-availability_completionstatus
 Adds the condition completion status to restrice access in moodle courses. 
 This plugin is based on Moodle core's condition completion but interprets the completion status in a different way. An activity is considered completed when the activity is reported completed in Reports for Activity completion. 
 
